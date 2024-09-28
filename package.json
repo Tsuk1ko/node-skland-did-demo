@@ -1,0 +1,7 @@
+{
+  "name": "node-skland-did-demo",
+  "main": "index.js",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
